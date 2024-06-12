@@ -81,10 +81,10 @@
   };
   dakshExtensions = {
     pname = "dakshExtensions";
-    version = "b79e4c9e1904979ee3a2998db1db4c947f6f1f14";
+    version = "e16e54e8463270e636ba4353170b222e10661600";
     src = fetchgit {
       url = "https://github.com/daksh2k/Spicetify-stuff";
-      rev = "b79e4c9e1904979ee3a2998db1db4c947f6f1f14";
+      rev = "e16e54e8463270e636ba4353170b222e10661600";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
