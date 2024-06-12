@@ -125,12 +125,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b79e4c9e1904979ee3a2998db1db4c947f6f1f14",
+            "rev": "e16e54e8463270e636ba4353170b222e10661600",
             "sha256": "sha256-ArOEryKCw1hQenDpeP1wDmyrL60bjvnCQ45CpA0hcMo=",
             "type": "git",
             "url": "https://github.com/daksh2k/Spicetify-stuff"
         },
-        "version": "b79e4c9e1904979ee3a2998db1db4c947f6f1f14"
+        "version": "e16e54e8463270e636ba4353170b222e10661600"
     },
     "defaultDynamicSrc": {
         "cargoLocks": null,
