@@ -88,7 +88,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ArOEryKCw1hQenDpeP1wDmyrL60bjvnCQ45CpA0hcMo=";
+      sha256 = "sha256-ksTCISkR7BADA8TWJCmmw7IupEC1q5RIijk9rzhXGN8=";
     };
     date = "2023-10-18";
   };
